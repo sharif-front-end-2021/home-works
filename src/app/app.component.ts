@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 
 })
 export class AppComponent {
-  title = 'sharif-front-end-app';
+  title = 'The-front-end-application';
 }
